@@ -23,7 +23,7 @@
     "native-base": "^2.7.2",
     "prop-types": "^15.7.2",
     "react": "16.4.2",
-    "react-native": "^0.56.0",
+    "react-native": "^0.70.2",
     "react-native-autocomplete-input": "^3.4.0",
     "react-native-autolink": "^1.4.0",
     "react-native-datepicker": "^1.6.0",
